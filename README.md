@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me **imomkarpatilofficial@gmail.com**
+- 📫 How to reach me **imomkarpatilofficial@gmail.com** and **omkarpatil8545@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
