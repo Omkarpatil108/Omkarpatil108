@@ -7,7 +7,13 @@
 </p>
 <p>
   <a href="https://twitter.com/OmkarPatil_108">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FOmkarPatil_108&style=for-the-badge&label=%23Twitter&labelColor=%235050E1&color=fedcba&cacheSeconds=3600"></p>
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FOmkarPatil_108&style=for-the-badge&label=%23Twitter&labelColor=%235050E1&color=fedcba&cacheSeconds=3600">
+  </p>
+
+  <p>
+    <a href="https://www.twitter.com/OmkarPatil_108" target="__blank"><img src="https://img.shields.io/twitter/follow/OmkarPatil?style=social" alt="Twitter"></a>
+
+  </p>
 
 
 
