@@ -5,6 +5,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=An+Enthusiastic+Learner;Web+Developer;Software+Engineer;Passionate+Developer+and+Programmer" alt="Typing SVG" /></a>
   </h1>
 </p>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FOmkarPatil_108&style=for-the-badge&label=%23Twitter&labelColor=%235050E1&color=fedcba&link=https%3A%2F%2Ftwitter.com%2FOmkarPatil_108">
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarpatil108&label=Profile%20views&color=0e75b6&style=flat" alt="omkarpatil108" /> </p>-->
