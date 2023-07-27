@@ -8,11 +8,11 @@
 
 <div align="center">
 
-  <a href="https://www.twitter.com/OmkarPatil_108" target="__blank"><img src="https://img.shields.io/twitter/follow/OmkarPatil?style=social" alt="Twitter"></a>
+  <a href="https://www.twitter.com/OmkarPatil_108" target="__blank"><img src="https://img.shields.io/twitter/follow/OmkarPatil?style=social" alt="Twitter"></a> <a href="https://www.linkedin.com/in/omkarpatil8545/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![Gmail Badge](https://img.shields.io/badge/-omkarpatil8545@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omkarpatil8545@gmail.com)](mailto:omkarpatil8545@gmail.com)
 
-  <a href="https://www.linkedin.com/in/omkarpatil8545/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  
 
-  [![Gmail Badge](https://img.shields.io/badge/-omkarpatil8545@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omkarpatil8545@gmail.com)](mailto:omkarpatil8545@gmail.com)
+  
 
   
 </div>
