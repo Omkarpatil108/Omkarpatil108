@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./banner.gif)
 
 <h1 align="center">Hi 👋, I'm Omkar Patil</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
