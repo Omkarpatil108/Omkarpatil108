@@ -5,17 +5,14 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=An+Enthusiastic+Learner;Web+Developer;Software+Engineer;Passionate+Developer+and+Programmer" alt="Typing SVG" /></a>
   </h1>
 </p>
-<!-- <p>
-  <a href="https://twitter.com/OmkarPatil_108">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FOmkarPatil_108&style=for-the-badge&label=%23Twitter&labelColor=%235050E1&color=fedcba&cacheSeconds=3600">
-  </p> -->
 
-<p>
-    <a href="https://www.twitter.com/OmkarPatil_108" target="__blank"><img src="https://img.shields.io/twitter/follow/OmkarPatil?style=social" alt="Twitter"></a>
+
+
+  <a href="https://www.twitter.com/OmkarPatil_108" target="__blank"><img src="https://img.shields.io/twitter/follow/OmkarPatil?style=social" alt="Twitter"></a>
 
   <a href="https://www.linkedin.com/in/omkarpatil8545/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-</p>
+
 
 
 
