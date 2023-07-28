@@ -40,9 +40,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/omkarpatil8545/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar patil" height="30" width="40" /></a>
 <a href="https://twitter.com/omkarpatil_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkarpatil_108" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/sarangpatil108?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarangpatil108" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/sarangpatil108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarangpatil108" height="30" width="40" /></a>
 
 
