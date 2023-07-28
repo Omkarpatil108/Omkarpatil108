@@ -1,4 +1,4 @@
-![Header](./banner.gif)
+![Header](./Banner_image.gif)
 
 <p align="center">
   <h1 align="center">
