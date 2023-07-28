@@ -53,7 +53,7 @@
 
 #### My Github Streks
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarpatil108&theme=dark&background=0d1117&border_radius=20" alt="omkarpatil108" /></p>&nbsp;&nbsp;
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarpatil108&show_icons=true&count_private=true&theme=gruvbox&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=F0F4F0&currStreakNum=DDBE28&border=DDDAD5&currStreakLabel=DDBE28&border_radius=20" alt="omkarpatil108" /></p>&nbsp;&nbsp;
 
 #### Top Languages
 
