@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me **omkarpatil8545@gmail.com** 
+- 📫 Contact **omkarpatil8545@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
