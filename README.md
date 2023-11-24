@@ -73,11 +73,11 @@
 
 #### Languages Used 📈 :
 
-/*<div align="center">
+<!--<div align="center">
   <a href="https://github.com/Omkarpatil108?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarpatil108&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=D24939&ring_color=D24939&include_all_commits=true&border_radius=20" alt="omkarpatil108" />
   </a>
-</div>*/
+</div>-->
 
 #### Github Stats 🗓️ : 
 
