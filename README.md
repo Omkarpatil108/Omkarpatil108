@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on **Netflix Clone Web**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Java Full Stack and MERN Stack**
 
 - 📫 Contact **omkarpatil8545@gmail.com** 
 
