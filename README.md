@@ -30,7 +30,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarpatil108&label=Profile%20views&color=0e75b6&style=flat" alt="omkarpatil108" /> </p>-->
 
-- 🔭 I’m currently working on **Netflix Clone Web**
+<!--- 🔭 I’m currently working on **Netflix Clone Web**-->
 
 - 🌱 I’m currently learning **Java Full Stack and MERN Stack**
 
