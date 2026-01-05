@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/Omkarpatil108?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=An+Enthusiastic+Learner;Web+Developer;Software+Engineer;Passionate+Developer+and+Programmer" alt="Typing SVG" /></a>
+    <a href="https://github.com/Omkarpatil108?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Software+Engineer;Passionate+Developer+and+Programmer" alt="Typing SVG" /></a>
   </h1>
 </p>
 
